@@ -14,6 +14,8 @@
 	<div class="ui-block-b">Block B</div>
 	<div class="ui-block-c">Block C</div>
 	<div class="ui-block-d">Block d</div>
+	<div class="ui-block-d">Block e</div>
+
     <div class="ui-block-e">Block e</div>
    </ul>
 
