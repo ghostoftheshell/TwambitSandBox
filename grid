@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head >
+  </head>
+
+  <body>
+  
+  
+<div class="ui-grid-d">
+ <ul class="slides">
+	<div class="ui-block-a">Block A</div>
+	<div class="ui-block-b">Block B</div>
+	<div class="ui-block-c">Block C</div>
+	<div class="ui-block-d">Block d</div>
+    <div class="ui-block-e">Block e</div>
+   </ul>
+
+</div><!-- /grid-b -->
+
+</body>
+  
+  </html>
